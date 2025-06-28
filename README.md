@@ -7,8 +7,8 @@ A simple calculator built with python
 - Tkinter (Python GUI library)
 
 ## How to run
-step1 : clone the repo
-step2 : Run the calculator python file
+- step1 : clone the repo
+- step2 : Run the calculator python file
 
 ## Features
 - clean GUI
